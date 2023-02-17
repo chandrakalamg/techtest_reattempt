@@ -1,3 +1,6 @@
+reattempted after launch of application and  got the locator of alert popup through java script debugger and it is working now
+
+
 # Digital Technology Automation Tester Tech Test
 
 ## Installation and Running
